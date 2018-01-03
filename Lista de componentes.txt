@@ -1,0 +1,1 @@
+>> PIC : 2.3V to 5.5V (PIC18F2X/4X/5XK42)
